@@ -1,7 +1,2 @@
 # Dependencies
 node_modules/
-
-# Data
-data/
-migrations/
-migrate-mongo-config.js
